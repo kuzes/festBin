@@ -1,0 +1,33 @@
+[Eagle]
+Version="06 03 00"
+Platform="Windows"
+Serial="62191E841E-LSR-WLM-1EL"
+Globals="Globals"
+Desktop="Desktop"
+
+[Globals]
+AutoSaveProject=1
+UsedLibrary="EagleArduinoLib/ArduinoMegaSymbol.lbr"
+UsedLibrary="LibsUsed/New_lib/con-phoenix-350.lbr"
+UsedLibrary="LibsUsed/New_lib/con-phoenix-508.lbr"
+UsedLibrary="LibsUsed/New_lib/con-ptr500.lbr"
+UsedLibrary="LibsUsed/New_lib/fuse.lbr"
+UsedLibrary="LibsUsed/New_lib/heatsink.lbr"
+UsedLibrary="LibsUsed/New_lib/N__con-3m.lbr"
+UsedLibrary="LibsUsed/New_lib/N__con-garry.lbr"
+UsedLibrary="LibsUsed/New_lib/N__con-harting-ml.lbr"
+UsedLibrary="LibsUsed/New_lib/N__con-lsta.lbr"
+UsedLibrary="LibsUsed/New_lib/N_con-harting-v.lbr"
+UsedLibrary="LibsUsed/New_lib/rcl.lbr"
+UsedLibrary="PowerSupplyLbr/diode.lbr"
+UsedLibrary="LibsUsed/New_lib/frames.lbr"
+
+[Win_1]
+Type="Control Panel"
+Loc="652 321 1251 720"
+State=2
+Number=0
+
+[Desktop]
+Screen="1920 1080"
+Window="Win_1"
