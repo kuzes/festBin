@@ -19782,6 +19782,12 @@ Low profile connectors, straight&lt;p&gt;
 <wire x1="280.67" y1="172.72" x2="285.75" y2="172.72" width="0.1524" layer="91"/>
 <label x="287.02" y="172.72" size="1.778" layer="95"/>
 </segment>
+<segment>
+<pinref part="U$1" gate="G$1" pin="30"/>
+<wire x1="166.37" y1="52.07" x2="167.64" y2="52.07" width="0.1524" layer="91"/>
+<wire x1="167.64" y1="52.07" x2="167.64" y2="34.29" width="0.1524" layer="91"/>
+<label x="167.64" y="30.48" size="1.778" layer="95" rot="R90"/>
+</segment>
 </net>
 <net name="N$4" class="0">
 <segment>
@@ -19795,6 +19801,11 @@ Low profile connectors, straight&lt;p&gt;
 <pinref part="R4" gate="G$1" pin="1"/>
 <wire x1="330.2" y1="172.72" x2="336.55" y2="172.72" width="0.1524" layer="91"/>
 <label x="337.82" y="172.72" size="1.778" layer="95"/>
+</segment>
+<segment>
+<pinref part="U$1" gate="G$1" pin="37"/>
+<wire x1="158.75" y1="49.53" x2="158.75" y2="31.75" width="0.1524" layer="91"/>
+<label x="158.75" y="26.67" size="1.778" layer="95" rot="R90"/>
 </segment>
 </net>
 <net name="N$5" class="0">

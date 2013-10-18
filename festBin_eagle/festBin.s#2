@@ -6,7 +6,7 @@
 <setting alwaysvectorfont="no"/>
 <setting verticaltext="up"/>
 </settings>
-<grid distance="0.05" unitdist="inch" unit="inch" style="lines" multiple="1" display="yes" altdistance="0.01" altunitdist="inch" altunit="inch"/>
+<grid distance="0.025" unitdist="inch" unit="inch" style="lines" multiple="1" display="yes" altdistance="0.01" altunitdist="inch" altunit="inch"/>
 <layers>
 <layer number="1" name="Top" color="4" fill="1" visible="no" active="no"/>
 <layer number="2" name="Route2" color="1" fill="3" visible="no" active="no"/>
@@ -19682,8 +19682,8 @@ Low profile connectors, straight&lt;p&gt;
 <instance part="5VIN" gate="-2" x="107.95" y="156.21"/>
 <instance part="SUPPLY39" gate="GND" x="115.57" y="147.32"/>
 <instance part="SUPPLY35" gate="+5V" x="115.57" y="172.72"/>
-<instance part="12VIN" gate="-1" x="63.5" y="161.29"/>
-<instance part="12VIN" gate="-2" x="63.5" y="156.21"/>
+<instance part="12VIN" gate="-1" x="63.5" y="156.21"/>
+<instance part="12VIN" gate="-2" x="63.5" y="161.29"/>
 <instance part="SUPPLY8" gate="GND" x="71.12" y="147.32"/>
 <instance part="SUPPLY40" gate="+12V" x="71.12" y="172.72"/>
 <instance part="IC4" gate="1" x="58.42" y="128.27" rot="MR0"/>
@@ -19815,10 +19815,10 @@ Low profile connectors, straight&lt;p&gt;
 <wire x1="135.89" y1="49.53" x2="123.19" y2="49.53" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<pinref part="12VIN" gate="-2" pin="KL"/>
-<wire x1="68.58" y1="156.21" x2="71.12" y2="156.21" width="0.1524" layer="91"/>
 <pinref part="SUPPLY8" gate="GND" pin="GND"/>
 <wire x1="71.12" y1="149.86" x2="71.12" y2="156.21" width="0.1524" layer="91"/>
+<pinref part="12VIN" gate="-1" pin="KL"/>
+<wire x1="71.12" y1="156.21" x2="68.58" y2="156.21" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="C12" gate="G$1" pin="2"/>
@@ -20327,10 +20327,10 @@ Low profile connectors, straight&lt;p&gt;
 </net>
 <net name="+12V" class="0">
 <segment>
-<pinref part="12VIN" gate="-1" pin="KL"/>
-<wire x1="68.58" y1="161.29" x2="71.12" y2="161.29" width="0.1524" layer="91"/>
 <wire x1="71.12" y1="161.29" x2="71.12" y2="170.18" width="0.1524" layer="91"/>
 <pinref part="SUPPLY40" gate="+12V" pin="+12V"/>
+<pinref part="12VIN" gate="-2" pin="KL"/>
+<wire x1="68.58" y1="161.29" x2="71.12" y2="161.29" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="SUPPLY42" gate="+12V" pin="+12V"/>

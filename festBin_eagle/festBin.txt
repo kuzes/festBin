@@ -1,0 +1,50 @@
+Partlist exported from C:/Users/Vaggelis/Documents/eagle/festBin_eagle/festBin.sch at 10/16/2013 2:33:57 PM
+
+Part    Value       Device          Package      Description                                        MF                MPN          OC_FARNELL OC_NEWARK
+5VIN                W237-02P        W237-132     WAGO SREW CLAMP                                                                   unknown    unknown  
+12VIN               W237-02P        W237-132     WAGO SREW CLAMP                                                                   unknown    unknown  
+24OUT               W237-02P        W237-132     WAGO SREW CLAMP                                                                   unknown    unknown  
+24VIN               W237-02P        W237-132     WAGO SREW CLAMP                                                                   unknown    unknown  
+24VMOT1             W237-02P        W237-132     WAGO SREW CLAMP                                                                   unknown    unknown  
+C1      10u         CPOL-EUE2.5-6   E2,5-6       POLARIZED CAPACITOR, European symbol                                                                  
+C2      10u         CPOL-EUE2.5-6   E2,5-6       POLARIZED CAPACITOR, European symbol                                                                  
+C3      10u         CPOL-EUE2.5-6   E2,5-6       POLARIZED CAPACITOR, European symbol                                                                  
+C4      100n        C-EU050-024X044 C050-024X044 CAPACITOR, European symbol                                                                            
+C5      0.33u       C-EU050-024X044 C050-024X044 CAPACITOR, European symbol                                                                            
+C6      100n        C-EU050-024X044 C050-024X044 CAPACITOR, European symbol                                                                            
+C_L_I               W237-02P        W237-132     WAGO SREW CLAMP                                                                   unknown    unknown  
+D1                  DIODE-DO41-10   DO41-10      DIODE                                                                                                 
+D2                  DIODE-DO41-10   DO41-10      DIODE                                                                                                 
+D_L_I               W237-02P        W237-132     WAGO SREW CLAMP                                                                   unknown    unknown  
+F1      FUSESH22,5  FUSESH22,5      SH22,5       Fuse                                                                              unknown    unknown  
+IC1     74LS14N     74LS14N         DIL14        Hex schmitt trigger INVERTER                                                                          
+IC2                 78XXS           78XXS        VOLTAGE REGULATOR                                                                                     
+I_B                 W237-02P        W237-132     WAGO SREW CLAMP                                                                   unknown    unknown  
+I_P_S               W237-3E         W237-3E      WAGO SREW CLAMP                                                                   unknown    unknown  
+K1      4052        4052            F4052        RELAY                                                                             unknown    unknown  
+K2      4052        4052            F4052        RELAY                                                                             unknown    unknown  
+KK1     SK104       SK104           SK104        HEATSINK manufacturer Fischer/distributor Buerklin                                                    
+LED1                LED3MM          LED3MM       LED                                                                                                   
+LED2                LED3MM          LED3MM       LED                                                                                                   
+MOT                 W237-02P        W237-132     WAGO SREW CLAMP                                                                   unknown    unknown  
+OK1     PC817       PC817           DIL04        SHARP OPTO COUPLER                                                   PC817X4J000F 9707727    97K7059  
+OK2     4N33        4N33            DIL06        MOTOROLA OPTO COUPLER                              VISHAY/TELEFUNKEN 4N33         1469601    88K1390  
+OK3     PC817       PC817           DIL04        SHARP OPTO COUPLER                                                   PC817X4J000F 9707727    97K7059  
+P_S                 W237-02P        W237-132     WAGO SREW CLAMP                                                                   unknown    unknown  
+Q1      BD139       BD139           TO126AV      NPN TRANSISTOR                                                                                        
+Q2      BD139       BD139           TO126AV      NPN TRANSISTOR                                                                                        
+R1      10k         R-EU_0207/10    0207/10      RESISTOR, European symbol                                                                             
+R2      10k         R-EU_0207/10    0207/10      RESISTOR, European symbol                                                                             
+R3      1k          R-EU_0207/10    0207/10      RESISTOR, European symbol                                                                             
+R4      47k         R-EU_0207/10    0207/10      RESISTOR, European symbol                                                                             
+R5      2k          R-EU_0207/10    0207/10      RESISTOR, European symbol                                                                             
+R6      2.2k        R-EU_0207/10    0207/10      RESISTOR, European symbol                                                                             
+R7      10k         R-EU_0207/10    0207/10      RESISTOR, European symbol                                                                             
+R8      S10K11      S10K11          S10K11       VARISTOR                                                                                              
+R9      1k          R-EU_0207/10    0207/10      RESISTOR, European symbol                                                                             
+R10     47k         R-EU_0207/10    0207/10      RESISTOR, European symbol                                                                             
+R11     1k          R-EU_0207/10    0207/10      RESISTOR, European symbol                                                                             
+R12     1k          R-EU_0207/10    0207/10      RESISTOR, European symbol                                                                             
+SV1                 ML20            ML20         HARTING                                                                           unknown    unknown  
+U$1     MEGA_DEVICE MEGA_DEVICE     MEGABOX      mega card as device                                                                                   
+W_S                 W237-02P        W237-132     WAGO SREW CLAMP                                                                   unknown    unknown  
